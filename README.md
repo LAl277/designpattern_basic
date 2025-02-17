@@ -1,2 +1,0 @@
-# designpattern_basic
-Entwurfsmuster
